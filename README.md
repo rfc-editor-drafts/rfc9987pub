@@ -1,2 +1,2 @@
-# base-template
-Base template repository for drafts
+# Publication repo for RFC 9987
+Third pub in purple.
